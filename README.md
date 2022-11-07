@@ -7,10 +7,9 @@
 I recently started teaching myself Python and decided to splurge on a bootcamp to learn more. I graduated from the [DigitalCrafts](https://www.digitalcrafts.com/) Software Engineering bootcamp and am currently a Teaching Assistant for them as well!
 
 
-
 ---
 
-> [LinkedIn](https://www.linkedin.com/in/violetmedina/) 
+> [LinkedIn](https://www.linkedin.com/in/violetmedina/) &nbsp
 > [Portfolio](https://www.violetcodes.com/)
 
 
