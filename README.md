@@ -9,7 +9,8 @@ I recently started teaching myself Python and decided to splurge on a bootcamp t
 
 ---
 
-> [LinkedIn](https://www.linkedin.com/in/violetmedina/) &nbsp  
+> [LinkedIn](https://www.linkedin.com/in/violetmedina/) 
+  
 > [Portfolio](https://www.violetcodes.com/)
 
 
