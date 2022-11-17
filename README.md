@@ -25,8 +25,8 @@ I started teaching myself Python and decided to splurge on a bootcamp to learn m
 > [Portfolio](https://www.violetcodes.com/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VeronicaTaucci&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VeronicaTaucci&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaTaucci&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=violetmedina&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=violetmedina&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=violetmedina&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=violetmedina&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
