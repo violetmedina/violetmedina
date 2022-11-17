@@ -22,6 +22,7 @@ I started teaching myself Python and decided to splurge on a bootcamp to learn m
 
 
 > [LinkedIn](https://www.linkedin.com/in/violetmedina/) 
+
 > [Portfolio](https://www.violetcodes.com/)
 
-[![](https://visitcount.itsvg.in/api?id=violetmedina&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=violetmedina&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
