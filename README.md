@@ -21,6 +21,8 @@ I started teaching myself Python and decided to splurge on a bootcamp to learn m
 ## 📪 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/violetmedina/)
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.violetcodes.com-red)](https://www.violetcodes.com/)
 
 ## 📊 GitHub Stats:
